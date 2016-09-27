@@ -1,0 +1,41 @@
+
+.worksheet{
+	border: 1px black solid;
+	padding:10px;
+}
+
+/*.worksheet tr td{
+	text-align: center;	
+	border:solid 1px black;
+}
+*/#borderless{
+	border: none;
+}
+
+#drcr{
+	text-align: right;
+}
+
+#acct_title{
+	text-align: left;
+}
+
+#total{
+	border-top: solid 2px black;
+	text-align: right;
+}
+
+#balanceSheet{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.signature tr td{
+	border:none;
+	text-align: right;
+}
+
+.acct_title tr td{
+	border:none;
+	text-align:center;
+}

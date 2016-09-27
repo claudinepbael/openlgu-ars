@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 20;
+	/*color: red;*/
+	font: normal 10pt Arial,Helvetica,sans-serif;
+	background: white;
+}
+
+.worksheet{
+	width:100%;
+	/*border: solid 1px black;*/
+}
+
+#balancesheet{
+	width:100%;
+}
+
+.bs_title{
+	text-align:center;
+}
+
+.is_title{
+	text-align:center;
+}
+
+.spacer_column{
+	height:30px;
+	border:none;
+}
+
+.signature tr td{
+	border:none;
+	text-align: right;
+}
